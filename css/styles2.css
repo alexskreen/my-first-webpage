@@ -1,0 +1,33 @@
+h1{
+  color: black;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.important {
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+  color: red;
+}
+
+.notimportant {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+p.list{
+  font-family: cursive;
+  font-style: oblique;
+  width: 50%
+}
+
+li.list{
+  font-stretch: expanded;
+  font-style: normal;
+  font-family: fantasy;
+}
+
+.favorites{
+  font-stretch: expanded;
+}
