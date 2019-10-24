@@ -23,3 +23,8 @@ p.author {
 ul{
   font-size: px
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
