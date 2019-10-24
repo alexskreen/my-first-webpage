@@ -1,0 +1,39 @@
+h1{
+  font-family: monospace;
+  text-align: center;
+}
+img{
+  float: right;
+}
+
+.column {
+  float: left;
+  font-size: 25px;
+
+}
+
+.intro {
+  width: 700px;
+
+
+
+}
+
+.my-class {
+  margin: 20px;
+  border: 15px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+ul {
+  background: black;
+  padding: 20px;
+  color: white;
+  font-style: oblique;
+}
+
+ul li {
+  margin: 5px;
